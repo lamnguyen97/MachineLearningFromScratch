@@ -13,3 +13,4 @@
 - Naive Bayes
 - Decision Tree
 - Random Forest
+- Hidden Markov Model
